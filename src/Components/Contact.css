@@ -1,0 +1,23 @@
+.contact {
+    padding: 50px 0;
+    /* background: #001529; */
+  }
+  
+  .contact .ant-card {
+    background: transparent;
+  }
+  
+  .contact .ant-form-item-label {
+    color: #fff; /* Label color */
+  }
+  
+  .contact .ant-btn-primary {
+    background-color: #1890ff;
+    border-color: #1890ff;
+  }
+.contact-section{
+    padding: 32px;
+    background: linear-gradient(90deg, rgb(0 0 0) 0%, rgb(25 54 65) 100%);
+    color: white;
+}
+  

@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+} 
+header {
+    padding: 0 20px;
+    background-color: #0d0d0d;
+    position: sticky;
+    top: 0;
+    z-index: 5;
+
+}
+.ant-menu-dark {
+    line-height: 64px;
+    background: transparent;
+    border: none;
+    width: 500px;
+}
+.ant-menu-item:hover {
+    color: #07d2de !important;
+    background: transparent !important; 
+    transform: scale(1.1);
+} 
+.active-link{
+    color: #000 !important; 
+    background: #07d2de !important;
+    border: 2px solid #07d2de;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
+  
+ 
+  

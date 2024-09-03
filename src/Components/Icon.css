@@ -1,0 +1,14 @@
+.social-media-icons {
+    display: flex;
+    gap: 15px; /* Space between icons */
+  }
+  
+  .social-media-icons a {
+    color: #fff;
+    transition: color 0.3s ease;
+  }
+  
+  .social-media-icons a:hover {
+    color: #1890ff; 
+  }
+  
